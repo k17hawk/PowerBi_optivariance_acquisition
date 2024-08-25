@@ -4,7 +4,9 @@ This is a Power BI project that analyzes customer data for different products fo
 
 # Dashboard </br>
 The dashboard includes different visualizations for the sales analysis, such as: </br>
-
+<img src="https://github.com/k17hawk/PowerBi_optivariance_acquisition/blob/main/Screenshot%20(7).png"/>
+<img src="https://github.com/k17hawk/PowerBi_optivariance_acquisition/blob/main/Screenshot%20(8).png"/>
+<img src="https://github.com/k17hawk/PowerBi_optivariance_acquisition/blob/main/Screenshot%20(9).png"/>
 1. Card visualizations for the measures created, sales last year, profit last year, sales moving average, and profit moving average. </br>
 2. Slicers for the present year, channel, and quarter. </br>
 3. Tables for profit margin for products, top 7 customers, and top 7 products.</br>
